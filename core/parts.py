@@ -1,4 +1,4 @@
-# spore/parts.py
+# core/parts.py
 
 """
 Defines the components (Body Parts) that a Creature can have.

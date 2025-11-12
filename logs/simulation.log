@@ -1,0 +1,1241 @@
+2025-11-13 02:14:52,066 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,066 - root                 - INFO     - Starting 100 simulations...
+2025-11-13 02:14:52,066 - root                 - INFO     - Full log output will be saved to ../logs/simulation.log
+2025-11-13 02:14:52,066 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,067 - root                 - INFO     - 
+2025-11-13 02:14:52,067 - root                 - INFO     - ==================== SIMULATION 1/100 ====================
+2025-11-13 02:14:52,067 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,067 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,067 - core.creature        - INFO     -   Health: 116, Stamina: 189
+2025-11-13 02:14:52,067 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=1), Wings(count=2), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,067 - core.simulation      - INFO     - Evolved Prey at 147:
+2025-11-13 02:14:52,067 - core.creature        - INFO     -   Health: 97, Stamina: 78
+2025-11-13 02:14:52,067 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=4), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,068 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,068 - core.simulation      - INFO     - CATCH! Predator caught prey at position 264
+2025-11-13 02:14:52,068 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,068 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,068 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,068 - root                 - INFO     - 
+2025-11-13 02:14:52,068 - root                 - INFO     - ==================== SIMULATION 2/100 ====================
+2025-11-13 02:14:52,068 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,069 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,069 - core.creature        - INFO     -   Health: 116, Stamina: 130
+2025-11-13 02:14:52,069 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=1), Wings(count=2), Claws(size=BIG), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,069 - core.simulation      - INFO     - Evolved Prey at 781:
+2025-11-13 02:14:52,069 - core.creature        - INFO     -   Health: 107, Stamina: 65
+2025-11-13 02:14:52,069 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=1), Wings(count=4)]
+2025-11-13 02:14:52,069 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,069 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,069 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,069 - root                 - INFO     - 
+2025-11-13 02:14:52,070 - root                 - INFO     - ==================== SIMULATION 3/100 ====================
+2025-11-13 02:14:52,070 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,070 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,070 - core.creature        - INFO     -   Health: 87, Stamina: 161
+2025-11-13 02:14:52,070 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=2), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,070 - core.simulation      - INFO     - Evolved Prey at 149:
+2025-11-13 02:14:52,070 - core.creature        - INFO     -   Health: 103, Stamina: 88
+2025-11-13 02:14:52,070 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=1)]
+2025-11-13 02:14:52,070 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,070 - core.simulation      - INFO     - CATCH! Predator caught prey at position 282
+2025-11-13 02:14:52,071 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,071 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,071 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,071 - root                 - INFO     - 
+2025-11-13 02:14:52,071 - root                 - INFO     - ==================== SIMULATION 4/100 ====================
+2025-11-13 02:14:52,071 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,071 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,071 - core.creature        - INFO     -   Health: 85, Stamina: 164
+2025-11-13 02:14:52,071 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=3), Wings(count=2), Claws(size=SMALL), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,071 - core.simulation      - INFO     - Evolved Prey at 652:
+2025-11-13 02:14:52,072 - core.creature        - INFO     -   Health: 91, Stamina: 68
+2025-11-13 02:14:52,072 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=2), Wings(count=4), Claws(size=BIG)]
+2025-11-13 02:14:52,072 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,072 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,072 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,072 - root                 - INFO     - 
+2025-11-13 02:14:52,072 - root                 - INFO     - ==================== SIMULATION 5/100 ====================
+2025-11-13 02:14:52,072 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,073 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,073 - core.creature        - INFO     -   Health: 81, Stamina: 159
+2025-11-13 02:14:52,073 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=2), Wings(count=4), Claws(size=SMALL), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,073 - core.simulation      - INFO     - Evolved Prey at 107:
+2025-11-13 02:14:52,073 - core.creature        - INFO     -   Health: 90, Stamina: 92
+2025-11-13 02:14:52,073 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=1), Wings(count=4), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,073 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,073 - core.simulation      - INFO     - CATCH! Predator caught prey at position 281
+2025-11-13 02:14:52,074 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,074 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,074 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,074 - root                 - INFO     - 
+2025-11-13 02:14:52,074 - root                 - INFO     - ==================== SIMULATION 6/100 ====================
+2025-11-13 02:14:52,074 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,074 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,074 - core.creature        - INFO     -   Health: 83, Stamina: 164
+2025-11-13 02:14:52,074 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=1), Claws(size=BIG)]
+2025-11-13 02:14:52,075 - core.simulation      - INFO     - Evolved Prey at 451:
+2025-11-13 02:14:52,075 - core.creature        - INFO     -   Health: 120, Stamina: 89
+2025-11-13 02:14:52,075 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=2)]
+2025-11-13 02:14:52,075 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,075 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,075 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,075 - root                 - INFO     - 
+2025-11-13 02:14:52,075 - root                 - INFO     - ==================== SIMULATION 7/100 ====================
+2025-11-13 02:14:52,076 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,076 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,076 - core.creature        - INFO     -   Health: 112, Stamina: 193
+2025-11-13 02:14:52,076 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=3), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,076 - core.simulation      - INFO     - Evolved Prey at 740:
+2025-11-13 02:14:52,076 - core.creature        - INFO     -   Health: 117, Stamina: 65
+2025-11-13 02:14:52,076 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=4), Wings(count=2), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,076 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,076 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,077 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,077 - root                 - INFO     - 
+2025-11-13 02:14:52,077 - root                 - INFO     - ==================== SIMULATION 8/100 ====================
+2025-11-13 02:14:52,077 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,077 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,077 - core.creature        - INFO     -   Health: 84, Stamina: 157
+2025-11-13 02:14:52,077 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=2), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,077 - core.simulation      - INFO     - Evolved Prey at 16:
+2025-11-13 02:14:52,077 - core.creature        - INFO     -   Health: 84, Stamina: 84
+2025-11-13 02:14:52,078 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=4), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,078 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,078 - core.simulation      - INFO     - CATCH! Predator caught prey at position 64
+2025-11-13 02:14:52,078 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,078 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,078 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,078 - root                 - INFO     - 
+2025-11-13 02:14:52,078 - root                 - INFO     - ==================== SIMULATION 9/100 ====================
+2025-11-13 02:14:52,079 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,079 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,079 - core.creature        - INFO     -   Health: 111, Stamina: 187
+2025-11-13 02:14:52,079 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=3), Wings(count=4), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,079 - core.simulation      - INFO     - Evolved Prey at 665:
+2025-11-13 02:14:52,079 - core.creature        - INFO     -   Health: 91, Stamina: 59
+2025-11-13 02:14:52,079 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=3), Wings(count=2), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,079 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,080 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,080 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,080 - root                 - INFO     - 
+2025-11-13 02:14:52,080 - root                 - INFO     - ==================== SIMULATION 10/100 ====================
+2025-11-13 02:14:52,080 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,081 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,081 - core.creature        - INFO     -   Health: 108, Stamina: 140
+2025-11-13 02:14:52,081 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=3), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,081 - core.simulation      - INFO     - Evolved Prey at 382:
+2025-11-13 02:14:52,081 - core.creature        - INFO     -   Health: 114, Stamina: 43
+2025-11-13 02:14:52,081 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=3)]
+2025-11-13 02:14:52,081 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,082 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,082 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,082 - root                 - INFO     - 
+2025-11-13 02:14:52,082 - root                 - INFO     - ==================== SIMULATION 11/100 ====================
+2025-11-13 02:14:52,082 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,083 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,083 - core.creature        - INFO     -   Health: 98, Stamina: 146
+2025-11-13 02:14:52,083 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=2), Wings(count=2), Claws(size=BIG), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,083 - core.simulation      - INFO     - Evolved Prey at 729:
+2025-11-13 02:14:52,083 - core.creature        - INFO     -   Health: 104, Stamina: 78
+2025-11-13 02:14:52,083 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=2), Claws(size=SMALL)]
+2025-11-13 02:14:52,083 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,084 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,084 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,084 - root                 - INFO     - 
+2025-11-13 02:14:52,084 - root                 - INFO     - ==================== SIMULATION 12/100 ====================
+2025-11-13 02:14:52,084 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,084 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,084 - core.creature        - INFO     -   Health: 85, Stamina: 126
+2025-11-13 02:14:52,084 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=2), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,084 - core.simulation      - INFO     - Evolved Prey at 772:
+2025-11-13 02:14:52,084 - core.creature        - INFO     -   Health: 97, Stamina: 86
+2025-11-13 02:14:52,085 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=1)]
+2025-11-13 02:14:52,085 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,085 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,085 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,085 - root                 - INFO     - 
+2025-11-13 02:14:52,085 - root                 - INFO     - ==================== SIMULATION 13/100 ====================
+2025-11-13 02:14:52,085 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,085 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,085 - core.creature        - INFO     -   Health: 116, Stamina: 167
+2025-11-13 02:14:52,086 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=2), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,086 - core.simulation      - INFO     - Evolved Prey at 227:
+2025-11-13 02:14:52,086 - core.creature        - INFO     -   Health: 92, Stamina: 74
+2025-11-13 02:14:52,086 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=3)]
+2025-11-13 02:14:52,086 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,086 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,086 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,086 - root                 - INFO     - 
+2025-11-13 02:14:52,086 - root                 - INFO     - ==================== SIMULATION 14/100 ====================
+2025-11-13 02:14:52,087 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,087 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,087 - core.creature        - INFO     -   Health: 103, Stamina: 160
+2025-11-13 02:14:52,087 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=4), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,087 - core.simulation      - INFO     - Evolved Prey at 577:
+2025-11-13 02:14:52,087 - core.creature        - INFO     -   Health: 98, Stamina: 77
+2025-11-13 02:14:52,087 - core.creature        - INFO     -   Power: 14, Parts: []
+2025-11-13 02:14:52,087 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,088 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,088 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,088 - root                 - INFO     - 
+2025-11-13 02:14:52,088 - root                 - INFO     - ==================== SIMULATION 15/100 ====================
+2025-11-13 02:14:52,088 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,088 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,088 - core.creature        - INFO     -   Health: 119, Stamina: 188
+2025-11-13 02:14:52,088 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=2), Wings(count=4), Claws(size=BIG), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,089 - core.simulation      - INFO     - Evolved Prey at 570:
+2025-11-13 02:14:52,089 - core.creature        - INFO     -   Health: 100, Stamina: 64
+2025-11-13 02:14:52,089 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=1), Wings(count=4), Claws(size=BIG)]
+2025-11-13 02:14:52,089 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,089 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,089 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,090 - root                 - INFO     - 
+2025-11-13 02:14:52,090 - root                 - INFO     - ==================== SIMULATION 16/100 ====================
+2025-11-13 02:14:52,090 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,090 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,090 - core.creature        - INFO     -   Health: 109, Stamina: 121
+2025-11-13 02:14:52,090 - core.creature        - INFO     -   Power: 10, Parts: [Wings(count=4), Claws(size=MEDIUM), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,090 - core.simulation      - INFO     - Evolved Prey at 977:
+2025-11-13 02:14:52,090 - core.creature        - INFO     -   Health: 112, Stamina: 97
+2025-11-13 02:14:52,090 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=2)]
+2025-11-13 02:14:52,091 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,091 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,091 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,091 - root                 - INFO     - 
+2025-11-13 02:14:52,091 - root                 - INFO     - ==================== SIMULATION 17/100 ====================
+2025-11-13 02:14:52,091 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,091 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,092 - core.creature        - INFO     -   Health: 111, Stamina: 154
+2025-11-13 02:14:52,092 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=3), Wings(count=2), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,092 - core.simulation      - INFO     - Evolved Prey at 127:
+2025-11-13 02:14:52,092 - core.creature        - INFO     -   Health: 81, Stamina: 77
+2025-11-13 02:14:52,092 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=1), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,092 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,093 - core.simulation      - INFO     - CATCH! Predator caught prey at position 243
+2025-11-13 02:14:52,093 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,093 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,093 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,093 - root                 - INFO     - 
+2025-11-13 02:14:52,093 - root                 - INFO     - ==================== SIMULATION 18/100 ====================
+2025-11-13 02:14:52,093 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,094 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,094 - core.creature        - INFO     -   Health: 103, Stamina: 161
+2025-11-13 02:14:52,094 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=1), Wings(count=2), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,094 - core.simulation      - INFO     - Evolved Prey at 539:
+2025-11-13 02:14:52,094 - core.creature        - INFO     -   Health: 83, Stamina: 88
+2025-11-13 02:14:52,094 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,094 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,094 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,094 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,095 - root                 - INFO     - 
+2025-11-13 02:14:52,095 - root                 - INFO     - ==================== SIMULATION 19/100 ====================
+2025-11-13 02:14:52,095 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,095 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,095 - core.creature        - INFO     -   Health: 81, Stamina: 171
+2025-11-13 02:14:52,095 - core.creature        - INFO     -   Power: 11, Parts: [Wings(count=2), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,095 - core.simulation      - INFO     - Evolved Prey at 742:
+2025-11-13 02:14:52,095 - core.creature        - INFO     -   Health: 105, Stamina: 51
+2025-11-13 02:14:52,095 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=4), Claws(size=BIG)]
+2025-11-13 02:14:52,095 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,096 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,096 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,096 - root                 - INFO     - 
+2025-11-13 02:14:52,096 - root                 - INFO     - ==================== SIMULATION 20/100 ====================
+2025-11-13 02:14:52,096 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,096 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,096 - core.creature        - INFO     -   Health: 112, Stamina: 187
+2025-11-13 02:14:52,096 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=3), Wings(count=4), Claws(size=MEDIUM), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,097 - core.simulation      - INFO     - Evolved Prey at 262:
+2025-11-13 02:14:52,097 - core.creature        - INFO     -   Health: 102, Stamina: 98
+2025-11-13 02:14:52,097 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=4), Wings(count=4)]
+2025-11-13 02:14:52,097 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,097 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,097 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,097 - root                 - INFO     - 
+2025-11-13 02:14:52,097 - root                 - INFO     - ==================== SIMULATION 21/100 ====================
+2025-11-13 02:14:52,098 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,098 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,098 - core.creature        - INFO     -   Health: 91, Stamina: 142
+2025-11-13 02:14:52,098 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=3), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,098 - core.simulation      - INFO     - Evolved Prey at 264:
+2025-11-13 02:14:52,098 - core.creature        - INFO     -   Health: 100, Stamina: 96
+2025-11-13 02:14:52,098 - core.creature        - INFO     -   Power: 11, Parts: []
+2025-11-13 02:14:52,098 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,098 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,098 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,099 - root                 - INFO     - 
+2025-11-13 02:14:52,099 - root                 - INFO     - ==================== SIMULATION 22/100 ====================
+2025-11-13 02:14:52,099 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,099 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,099 - core.creature        - INFO     -   Health: 92, Stamina: 175
+2025-11-13 02:14:52,099 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=2), Wings(count=2), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,099 - core.simulation      - INFO     - Evolved Prey at 459:
+2025-11-13 02:14:52,099 - core.creature        - INFO     -   Health: 102, Stamina: 81
+2025-11-13 02:14:52,099 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=3), Wings(count=2)]
+2025-11-13 02:14:52,099 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,100 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,100 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,100 - root                 - INFO     - 
+2025-11-13 02:14:52,100 - root                 - INFO     - ==================== SIMULATION 23/100 ====================
+2025-11-13 02:14:52,100 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,100 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,100 - core.creature        - INFO     -   Health: 101, Stamina: 172
+2025-11-13 02:14:52,100 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=2), Wings(count=4), Claws(size=SMALL), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,101 - core.simulation      - INFO     - Evolved Prey at 796:
+2025-11-13 02:14:52,101 - core.creature        - INFO     -   Health: 97, Stamina: 95
+2025-11-13 02:14:52,101 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=1), Wings(count=4)]
+2025-11-13 02:14:52,101 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,101 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,102 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,102 - root                 - INFO     - 
+2025-11-13 02:14:52,102 - root                 - INFO     - ==================== SIMULATION 24/100 ====================
+2025-11-13 02:14:52,102 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,102 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,102 - core.creature        - INFO     -   Health: 81, Stamina: 120
+2025-11-13 02:14:52,102 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=1), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,103 - core.simulation      - INFO     - Evolved Prey at 204:
+2025-11-13 02:14:52,103 - core.creature        - INFO     -   Health: 93, Stamina: 62
+2025-11-13 02:14:52,103 - core.creature        - INFO     -   Power: 13, Parts: []
+2025-11-13 02:14:52,103 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,103 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,103 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,104 - root                 - INFO     - 
+2025-11-13 02:14:52,104 - root                 - INFO     - ==================== SIMULATION 25/100 ====================
+2025-11-13 02:14:52,104 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,104 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,104 - core.creature        - INFO     -   Health: 94, Stamina: 130
+2025-11-13 02:14:52,104 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=1), Wings(count=4), Claws(size=SMALL), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,104 - core.simulation      - INFO     - Evolved Prey at 253:
+2025-11-13 02:14:52,104 - core.creature        - INFO     -   Health: 113, Stamina: 63
+2025-11-13 02:14:52,105 - core.creature        - INFO     -   Power: 9, Parts: [Wings(count=4)]
+2025-11-13 02:14:52,105 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,105 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,105 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,105 - root                 - INFO     - 
+2025-11-13 02:14:52,105 - root                 - INFO     - ==================== SIMULATION 26/100 ====================
+2025-11-13 02:14:52,105 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,105 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,106 - core.creature        - INFO     -   Health: 80, Stamina: 153
+2025-11-13 02:14:52,106 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=4), Wings(count=4), Claws(size=BIG)]
+2025-11-13 02:14:52,106 - core.simulation      - INFO     - Evolved Prey at 796:
+2025-11-13 02:14:52,106 - core.creature        - INFO     -   Health: 91, Stamina: 82
+2025-11-13 02:14:52,106 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=1), Wings(count=4), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,106 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,106 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,106 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,106 - root                 - INFO     - 
+2025-11-13 02:14:52,107 - root                 - INFO     - ==================== SIMULATION 27/100 ====================
+2025-11-13 02:14:52,107 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,107 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,107 - core.creature        - INFO     -   Health: 104, Stamina: 123
+2025-11-13 02:14:52,107 - core.creature        - INFO     -   Power: 11, Parts: [Wings(count=4), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,107 - core.simulation      - INFO     - Evolved Prey at 503:
+2025-11-13 02:14:52,107 - core.creature        - INFO     -   Health: 104, Stamina: 90
+2025-11-13 02:14:52,107 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,107 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,107 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,108 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,108 - root                 - INFO     - 
+2025-11-13 02:14:52,108 - root                 - INFO     - ==================== SIMULATION 28/100 ====================
+2025-11-13 02:14:52,108 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,108 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,108 - core.creature        - INFO     -   Health: 108, Stamina: 151
+2025-11-13 02:14:52,108 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=2), Wings(count=4), Claws(size=BIG), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,108 - core.simulation      - INFO     - Evolved Prey at 131:
+2025-11-13 02:14:52,108 - core.creature        - INFO     -   Health: 100, Stamina: 41
+2025-11-13 02:14:52,109 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,109 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,109 - core.simulation      - INFO     - CATCH! Predator caught prey at position 208
+2025-11-13 02:14:52,109 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,109 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,109 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,109 - root                 - INFO     - 
+2025-11-13 02:14:52,109 - root                 - INFO     - ==================== SIMULATION 29/100 ====================
+2025-11-13 02:14:52,109 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,110 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,110 - core.creature        - INFO     -   Health: 113, Stamina: 163
+2025-11-13 02:14:52,110 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,110 - core.simulation      - INFO     - Evolved Prey at 201:
+2025-11-13 02:14:52,110 - core.creature        - INFO     -   Health: 96, Stamina: 64
+2025-11-13 02:14:52,110 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=3), Wings(count=4)]
+2025-11-13 02:14:52,110 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,110 - core.simulation      - INFO     - CATCH! Predator caught prey at position 298
+2025-11-13 02:14:52,111 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,111 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,111 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,111 - root                 - INFO     - 
+2025-11-13 02:14:52,111 - root                 - INFO     - ==================== SIMULATION 30/100 ====================
+2025-11-13 02:14:52,111 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,111 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,111 - core.creature        - INFO     -   Health: 100, Stamina: 151
+2025-11-13 02:14:52,111 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1), Wings(count=2), Claws(size=SMALL), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,111 - core.simulation      - INFO     - Evolved Prey at 679:
+2025-11-13 02:14:52,111 - core.creature        - INFO     -   Health: 114, Stamina: 100
+2025-11-13 02:14:52,112 - core.creature        - INFO     -   Power: 10, Parts: [Wings(count=2), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,112 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,112 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,112 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,112 - root                 - INFO     - 
+2025-11-13 02:14:52,112 - root                 - INFO     - ==================== SIMULATION 31/100 ====================
+2025-11-13 02:14:52,112 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,113 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,113 - core.creature        - INFO     -   Health: 80, Stamina: 149
+2025-11-13 02:14:52,113 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1), Wings(count=4), Claws(size=MEDIUM), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,113 - core.simulation      - INFO     - Evolved Prey at 438:
+2025-11-13 02:14:52,113 - core.creature        - INFO     -   Health: 105, Stamina: 83
+2025-11-13 02:14:52,113 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1)]
+2025-11-13 02:14:52,113 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,114 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,114 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,114 - root                 - INFO     - 
+2025-11-13 02:14:52,114 - root                 - INFO     - ==================== SIMULATION 32/100 ====================
+2025-11-13 02:14:52,114 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,114 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,114 - core.creature        - INFO     -   Health: 107, Stamina: 126
+2025-11-13 02:14:52,114 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=1), Wings(count=4), Claws(size=MEDIUM), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,115 - core.simulation      - INFO     - Evolved Prey at 285:
+2025-11-13 02:14:52,115 - core.creature        - INFO     -   Health: 94, Stamina: 47
+2025-11-13 02:14:52,115 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=3), Claws(size=SMALL)]
+2025-11-13 02:14:52,115 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,115 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,116 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,116 - root                 - INFO     - 
+2025-11-13 02:14:52,116 - root                 - INFO     - ==================== SIMULATION 33/100 ====================
+2025-11-13 02:14:52,116 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,116 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,116 - core.creature        - INFO     -   Health: 103, Stamina: 123
+2025-11-13 02:14:52,116 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=1), Claws(size=BIG), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,116 - core.simulation      - INFO     - Evolved Prey at 984:
+2025-11-13 02:14:52,117 - core.creature        - INFO     -   Health: 93, Stamina: 60
+2025-11-13 02:14:52,117 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=2), Wings(count=2), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,117 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,117 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,117 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,117 - root                 - INFO     - 
+2025-11-13 02:14:52,117 - root                 - INFO     - ==================== SIMULATION 34/100 ====================
+2025-11-13 02:14:52,117 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,118 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,118 - core.creature        - INFO     -   Health: 86, Stamina: 135
+2025-11-13 02:14:52,118 - core.creature        - INFO     -   Power: 10, Parts: [Wings(count=4), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,118 - core.simulation      - INFO     - Evolved Prey at 717:
+2025-11-13 02:14:52,118 - core.creature        - INFO     -   Health: 104, Stamina: 77
+2025-11-13 02:14:52,118 - core.creature        - INFO     -   Power: 7, Parts: []
+2025-11-13 02:14:52,118 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,118 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,119 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,119 - root                 - INFO     - 
+2025-11-13 02:14:52,119 - root                 - INFO     - ==================== SIMULATION 35/100 ====================
+2025-11-13 02:14:52,119 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,119 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,119 - core.creature        - INFO     -   Health: 82, Stamina: 185
+2025-11-13 02:14:52,119 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=3), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,119 - core.simulation      - INFO     - Evolved Prey at 671:
+2025-11-13 02:14:52,119 - core.creature        - INFO     -   Health: 108, Stamina: 44
+2025-11-13 02:14:52,119 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=1), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,120 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,120 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,120 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,120 - root                 - INFO     - 
+2025-11-13 02:14:52,120 - root                 - INFO     - ==================== SIMULATION 36/100 ====================
+2025-11-13 02:14:52,120 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,120 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,120 - core.creature        - INFO     -   Health: 100, Stamina: 127
+2025-11-13 02:14:52,120 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=2), Wings(count=2), Claws(size=BIG), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,120 - core.simulation      - INFO     - Evolved Prey at 911:
+2025-11-13 02:14:52,121 - core.creature        - INFO     -   Health: 116, Stamina: 61
+2025-11-13 02:14:52,121 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=4)]
+2025-11-13 02:14:52,121 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,121 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,121 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,121 - root                 - INFO     - 
+2025-11-13 02:14:52,121 - root                 - INFO     - ==================== SIMULATION 37/100 ====================
+2025-11-13 02:14:52,121 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,122 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,122 - core.creature        - INFO     -   Health: 102, Stamina: 146
+2025-11-13 02:14:52,122 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=1), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,122 - core.simulation      - INFO     - Evolved Prey at 140:
+2025-11-13 02:14:52,122 - core.creature        - INFO     -   Health: 110, Stamina: 90
+2025-11-13 02:14:52,122 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=3), Claws(size=BIG), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,122 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,123 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,123 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,123 - root                 - INFO     - 
+2025-11-13 02:14:52,123 - root                 - INFO     - ==================== SIMULATION 38/100 ====================
+2025-11-13 02:14:52,123 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,123 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,123 - core.creature        - INFO     -   Health: 82, Stamina: 161
+2025-11-13 02:14:52,123 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1), Wings(count=4), Claws(size=BIG), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,123 - core.simulation      - INFO     - Evolved Prey at 379:
+2025-11-13 02:14:52,124 - core.creature        - INFO     -   Health: 120, Stamina: 55
+2025-11-13 02:14:52,124 - core.creature        - INFO     -   Power: 10, Parts: [Wings(count=2), Claws(size=BIG)]
+2025-11-13 02:14:52,124 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,124 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,124 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,125 - root                 - INFO     - 
+2025-11-13 02:14:52,125 - root                 - INFO     - ==================== SIMULATION 39/100 ====================
+2025-11-13 02:14:52,125 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,125 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,125 - core.creature        - INFO     -   Health: 117, Stamina: 121
+2025-11-13 02:14:52,125 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=2)]
+2025-11-13 02:14:52,125 - core.simulation      - INFO     - Evolved Prey at 408:
+2025-11-13 02:14:52,126 - core.creature        - INFO     -   Health: 92, Stamina: 98
+2025-11-13 02:14:52,126 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=2), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,126 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,126 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,126 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,126 - root                 - INFO     - 
+2025-11-13 02:14:52,126 - root                 - INFO     - ==================== SIMULATION 40/100 ====================
+2025-11-13 02:14:52,126 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,127 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,127 - core.creature        - INFO     -   Health: 84, Stamina: 155
+2025-11-13 02:14:52,127 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=4), Claws(size=BIG), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,127 - core.simulation      - INFO     - Evolved Prey at 913:
+2025-11-13 02:14:52,127 - core.creature        - INFO     -   Health: 113, Stamina: 52
+2025-11-13 02:14:52,127 - core.creature        - INFO     -   Power: 15, Parts: [Claws(size=MEDIUM)]
+2025-11-13 02:14:52,127 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,128 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,128 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,128 - root                 - INFO     - 
+2025-11-13 02:14:52,128 - root                 - INFO     - ==================== SIMULATION 41/100 ====================
+2025-11-13 02:14:52,128 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,128 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,128 - core.creature        - INFO     -   Health: 109, Stamina: 147
+2025-11-13 02:14:52,128 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=2), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,129 - core.simulation      - INFO     - Evolved Prey at 529:
+2025-11-13 02:14:52,129 - core.creature        - INFO     -   Health: 99, Stamina: 68
+2025-11-13 02:14:52,129 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=4), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,129 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,129 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,129 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,129 - root                 - INFO     - 
+2025-11-13 02:14:52,130 - root                 - INFO     - ==================== SIMULATION 42/100 ====================
+2025-11-13 02:14:52,130 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,130 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,130 - core.creature        - INFO     -   Health: 106, Stamina: 200
+2025-11-13 02:14:52,130 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=4), Wings(count=2), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,130 - core.simulation      - INFO     - Evolved Prey at 407:
+2025-11-13 02:14:52,130 - core.creature        - INFO     -   Health: 94, Stamina: 87
+2025-11-13 02:14:52,130 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=2), Wings(count=2)]
+2025-11-13 02:14:52,130 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,131 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,131 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,131 - root                 - INFO     - 
+2025-11-13 02:14:52,131 - root                 - INFO     - ==================== SIMULATION 43/100 ====================
+2025-11-13 02:14:52,131 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,131 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,131 - core.creature        - INFO     -   Health: 111, Stamina: 197
+2025-11-13 02:14:52,131 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=2), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,131 - core.simulation      - INFO     - Evolved Prey at 421:
+2025-11-13 02:14:52,132 - core.creature        - INFO     -   Health: 116, Stamina: 58
+2025-11-13 02:14:52,132 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=3), Wings(count=2)]
+2025-11-13 02:14:52,132 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,132 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,132 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,132 - root                 - INFO     - 
+2025-11-13 02:14:52,132 - root                 - INFO     - ==================== SIMULATION 44/100 ====================
+2025-11-13 02:14:52,133 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,133 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,133 - core.creature        - INFO     -   Health: 93, Stamina: 141
+2025-11-13 02:14:52,133 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=3), Claws(size=SMALL)]
+2025-11-13 02:14:52,133 - core.simulation      - INFO     - Evolved Prey at 182:
+2025-11-13 02:14:52,133 - core.creature        - INFO     -   Health: 84, Stamina: 73
+2025-11-13 02:14:52,133 - core.creature        - INFO     -   Power: 5, Parts: [Wings(count=4), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,133 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,134 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,134 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,134 - root                 - INFO     - 
+2025-11-13 02:14:52,134 - root                 - INFO     - ==================== SIMULATION 45/100 ====================
+2025-11-13 02:14:52,134 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,134 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,134 - core.creature        - INFO     -   Health: 96, Stamina: 162
+2025-11-13 02:14:52,135 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=1), Wings(count=4), Claws(size=BIG), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,135 - core.simulation      - INFO     - Evolved Prey at 124:
+2025-11-13 02:14:52,135 - core.creature        - INFO     -   Health: 101, Stamina: 86
+2025-11-13 02:14:52,135 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=4)]
+2025-11-13 02:14:52,135 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,135 - core.simulation      - INFO     - CATCH! Predator caught prey at position 255
+2025-11-13 02:14:52,135 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,136 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,136 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,136 - root                 - INFO     - 
+2025-11-13 02:14:52,136 - root                 - INFO     - ==================== SIMULATION 46/100 ====================
+2025-11-13 02:14:52,136 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,136 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,136 - core.creature        - INFO     -   Health: 108, Stamina: 162
+2025-11-13 02:14:52,136 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=4), Wings(count=4), Claws(size=SMALL), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,137 - core.simulation      - INFO     - Evolved Prey at 684:
+2025-11-13 02:14:52,137 - core.creature        - INFO     -   Health: 89, Stamina: 56
+2025-11-13 02:14:52,137 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=1), Wings(count=4), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,137 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,138 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,138 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,138 - root                 - INFO     - 
+2025-11-13 02:14:52,138 - root                 - INFO     - ==================== SIMULATION 47/100 ====================
+2025-11-13 02:14:52,138 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,138 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,138 - core.creature        - INFO     -   Health: 119, Stamina: 125
+2025-11-13 02:14:52,139 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=4), Wings(count=4), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,139 - core.simulation      - INFO     - Evolved Prey at 629:
+2025-11-13 02:14:52,139 - core.creature        - INFO     -   Health: 114, Stamina: 83
+2025-11-13 02:14:52,139 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=3), Claws(size=BIG)]
+2025-11-13 02:14:52,139 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,139 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,139 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,140 - root                 - INFO     - 
+2025-11-13 02:14:52,140 - root                 - INFO     - ==================== SIMULATION 48/100 ====================
+2025-11-13 02:14:52,140 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,140 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,140 - core.creature        - INFO     -   Health: 94, Stamina: 183
+2025-11-13 02:14:52,140 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=3), Wings(count=2), Claws(size=SMALL), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,140 - core.simulation      - INFO     - Evolved Prey at 328:
+2025-11-13 02:14:52,140 - core.creature        - INFO     -   Health: 120, Stamina: 100
+2025-11-13 02:14:52,140 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=4), Wings(count=4)]
+2025-11-13 02:14:52,140 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,141 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,141 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,141 - root                 - INFO     - 
+2025-11-13 02:14:52,141 - root                 - INFO     - ==================== SIMULATION 49/100 ====================
+2025-11-13 02:14:52,141 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,141 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,141 - core.creature        - INFO     -   Health: 115, Stamina: 138
+2025-11-13 02:14:52,141 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=4), Claws(size=SMALL), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,142 - core.simulation      - INFO     - Evolved Prey at 858:
+2025-11-13 02:14:52,142 - core.creature        - INFO     -   Health: 92, Stamina: 62
+2025-11-13 02:14:52,142 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1), Claws(size=BIG), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,142 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,142 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,142 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,142 - root                 - INFO     - 
+2025-11-13 02:14:52,143 - root                 - INFO     - ==================== SIMULATION 50/100 ====================
+2025-11-13 02:14:52,143 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,143 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,143 - core.creature        - INFO     -   Health: 98, Stamina: 126
+2025-11-13 02:14:52,143 - core.creature        - INFO     -   Power: 13, Parts: [Wings(count=2), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,143 - core.simulation      - INFO     - Evolved Prey at 153:
+2025-11-13 02:14:52,143 - core.creature        - INFO     -   Health: 112, Stamina: 96
+2025-11-13 02:14:52,143 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=2), Wings(count=2)]
+2025-11-13 02:14:52,143 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,144 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,144 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,144 - root                 - INFO     - 
+2025-11-13 02:14:52,144 - root                 - INFO     - ==================== SIMULATION 51/100 ====================
+2025-11-13 02:14:52,144 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,144 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,144 - core.creature        - INFO     -   Health: 110, Stamina: 148
+2025-11-13 02:14:52,144 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=4), Wings(count=2), Claws(size=SMALL), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,144 - core.simulation      - INFO     - Evolved Prey at 227:
+2025-11-13 02:14:52,145 - core.creature        - INFO     -   Health: 102, Stamina: 45
+2025-11-13 02:14:52,145 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=1)]
+2025-11-13 02:14:52,145 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,145 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,145 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,145 - root                 - INFO     - 
+2025-11-13 02:14:52,145 - root                 - INFO     - ==================== SIMULATION 52/100 ====================
+2025-11-13 02:14:52,146 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,146 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,146 - core.creature        - INFO     -   Health: 107, Stamina: 145
+2025-11-13 02:14:52,146 - core.creature        - INFO     -   Power: 7, Parts: [Wings(count=4), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,146 - core.simulation      - INFO     - Evolved Prey at 97:
+2025-11-13 02:14:52,146 - core.creature        - INFO     -   Health: 93, Stamina: 78
+2025-11-13 02:14:52,146 - core.creature        - INFO     -   Power: 13, Parts: [Wings(count=2)]
+2025-11-13 02:14:52,146 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,147 - core.simulation      - INFO     - CATCH! Predator caught prey at position 112
+2025-11-13 02:14:52,147 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,147 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,147 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,147 - root                 - INFO     - 
+2025-11-13 02:14:52,147 - root                 - INFO     - ==================== SIMULATION 53/100 ====================
+2025-11-13 02:14:52,147 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,147 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,148 - core.creature        - INFO     -   Health: 81, Stamina: 138
+2025-11-13 02:14:52,148 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=2), Wings(count=2), Claws(size=BIG), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,148 - core.simulation      - INFO     - Evolved Prey at 625:
+2025-11-13 02:14:52,148 - core.creature        - INFO     -   Health: 109, Stamina: 46
+2025-11-13 02:14:52,148 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=3), Wings(count=4), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,148 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,148 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,149 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,149 - root                 - INFO     - 
+2025-11-13 02:14:52,149 - root                 - INFO     - ==================== SIMULATION 54/100 ====================
+2025-11-13 02:14:52,149 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,149 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,149 - core.creature        - INFO     -   Health: 88, Stamina: 132
+2025-11-13 02:14:52,149 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=1), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,149 - core.simulation      - INFO     - Evolved Prey at 0:
+2025-11-13 02:14:52,149 - core.creature        - INFO     -   Health: 99, Stamina: 70
+2025-11-13 02:14:52,150 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=2)]
+2025-11-13 02:14:52,150 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,150 - core.simulation      - INFO     - CATCH! Predator caught prey at position 0
+2025-11-13 02:14:52,150 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,150 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,150 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,150 - root                 - INFO     - 
+2025-11-13 02:14:52,150 - root                 - INFO     - ==================== SIMULATION 55/100 ====================
+2025-11-13 02:14:52,150 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,151 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,151 - core.creature        - INFO     -   Health: 96, Stamina: 188
+2025-11-13 02:14:52,151 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=1), Wings(count=2), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,151 - core.simulation      - INFO     - Evolved Prey at 367:
+2025-11-13 02:14:52,151 - core.creature        - INFO     -   Health: 107, Stamina: 55
+2025-11-13 02:14:52,151 - core.creature        - INFO     -   Power: 14, Parts: [Wings(count=4)]
+2025-11-13 02:14:52,151 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,152 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,152 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,152 - root                 - INFO     - 
+2025-11-13 02:14:52,152 - root                 - INFO     - ==================== SIMULATION 56/100 ====================
+2025-11-13 02:14:52,152 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,152 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,152 - core.creature        - INFO     -   Health: 118, Stamina: 198
+2025-11-13 02:14:52,152 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=4), Claws(size=SMALL), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,152 - core.simulation      - INFO     - Evolved Prey at 719:
+2025-11-13 02:14:52,153 - core.creature        - INFO     -   Health: 92, Stamina: 96
+2025-11-13 02:14:52,153 - core.creature        - INFO     -   Power: 9, Parts: []
+2025-11-13 02:14:52,153 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,153 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,153 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,153 - root                 - INFO     - 
+2025-11-13 02:14:52,153 - root                 - INFO     - ==================== SIMULATION 57/100 ====================
+2025-11-13 02:14:52,154 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,154 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,154 - core.creature        - INFO     -   Health: 105, Stamina: 195
+2025-11-13 02:14:52,154 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=4), Wings(count=2)]
+2025-11-13 02:14:52,154 - core.simulation      - INFO     - Evolved Prey at 829:
+2025-11-13 02:14:52,154 - core.creature        - INFO     -   Health: 87, Stamina: 87
+2025-11-13 02:14:52,154 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=1)]
+2025-11-13 02:14:52,154 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,155 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,155 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,155 - root                 - INFO     - 
+2025-11-13 02:14:52,155 - root                 - INFO     - ==================== SIMULATION 58/100 ====================
+2025-11-13 02:14:52,155 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,155 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,155 - core.creature        - INFO     -   Health: 113, Stamina: 137
+2025-11-13 02:14:52,155 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=3), Claws(size=SMALL)]
+2025-11-13 02:14:52,155 - core.simulation      - INFO     - Evolved Prey at 611:
+2025-11-13 02:14:52,155 - core.creature        - INFO     -   Health: 105, Stamina: 79
+2025-11-13 02:14:52,156 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=2), Claws(size=SMALL)]
+2025-11-13 02:14:52,156 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,156 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,156 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,156 - root                 - INFO     - 
+2025-11-13 02:14:52,156 - root                 - INFO     - ==================== SIMULATION 59/100 ====================
+2025-11-13 02:14:52,156 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,156 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,157 - core.creature        - INFO     -   Health: 111, Stamina: 186
+2025-11-13 02:14:52,157 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=2), Wings(count=2), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,157 - core.simulation      - INFO     - Evolved Prey at 796:
+2025-11-13 02:14:52,157 - core.creature        - INFO     -   Health: 91, Stamina: 97
+2025-11-13 02:14:52,157 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=1), Wings(count=2), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,157 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,158 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,158 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,158 - root                 - INFO     - 
+2025-11-13 02:14:52,158 - root                 - INFO     - ==================== SIMULATION 60/100 ====================
+2025-11-13 02:14:52,158 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,158 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,158 - core.creature        - INFO     -   Health: 98, Stamina: 129
+2025-11-13 02:14:52,159 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=1), Wings(count=4)]
+2025-11-13 02:14:52,159 - core.simulation      - INFO     - Evolved Prey at 805:
+2025-11-13 02:14:52,159 - core.creature        - INFO     -   Health: 92, Stamina: 75
+2025-11-13 02:14:52,159 - core.creature        - INFO     -   Power: 13, Parts: []
+2025-11-13 02:14:52,159 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,159 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,159 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,159 - root                 - INFO     - 
+2025-11-13 02:14:52,160 - root                 - INFO     - ==================== SIMULATION 61/100 ====================
+2025-11-13 02:14:52,160 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,160 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,160 - core.creature        - INFO     -   Health: 91, Stamina: 160
+2025-11-13 02:14:52,160 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=1), Wings(count=2), Claws(size=BIG), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,160 - core.simulation      - INFO     - Evolved Prey at 340:
+2025-11-13 02:14:52,160 - core.creature        - INFO     -   Health: 105, Stamina: 62
+2025-11-13 02:14:52,160 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=4), Wings(count=2)]
+2025-11-13 02:14:52,160 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,161 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,161 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,161 - root                 - INFO     - 
+2025-11-13 02:14:52,161 - root                 - INFO     - ==================== SIMULATION 62/100 ====================
+2025-11-13 02:14:52,161 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,161 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,161 - core.creature        - INFO     -   Health: 102, Stamina: 155
+2025-11-13 02:14:52,161 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=1), Wings(count=2)]
+2025-11-13 02:14:52,162 - core.simulation      - INFO     - Evolved Prey at 112:
+2025-11-13 02:14:52,162 - core.creature        - INFO     -   Health: 87, Stamina: 94
+2025-11-13 02:14:52,162 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=1), Claws(size=BIG), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,162 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,162 - core.simulation      - INFO     - CATCH! Predator caught prey at position 253
+2025-11-13 02:14:52,162 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,163 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,163 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,163 - root                 - INFO     - 
+2025-11-13 02:14:52,163 - root                 - INFO     - ==================== SIMULATION 63/100 ====================
+2025-11-13 02:14:52,163 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,163 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,163 - core.creature        - INFO     -   Health: 82, Stamina: 193
+2025-11-13 02:14:52,163 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=3), Claws(size=MEDIUM), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,163 - core.simulation      - INFO     - Evolved Prey at 940:
+2025-11-13 02:14:52,163 - core.creature        - INFO     -   Health: 92, Stamina: 51
+2025-11-13 02:14:52,164 - core.creature        - INFO     -   Power: 5, Parts: []
+2025-11-13 02:14:52,164 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,164 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,164 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,164 - root                 - INFO     - 
+2025-11-13 02:14:52,164 - root                 - INFO     - ==================== SIMULATION 64/100 ====================
+2025-11-13 02:14:52,165 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,165 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,165 - core.creature        - INFO     -   Health: 96, Stamina: 143
+2025-11-13 02:14:52,165 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=1), Wings(count=2), Claws(size=BIG), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,165 - core.simulation      - INFO     - Evolved Prey at 962:
+2025-11-13 02:14:52,165 - core.creature        - INFO     -   Health: 83, Stamina: 91
+2025-11-13 02:14:52,165 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=3), Wings(count=2), Claws(size=BIG), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,166 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,166 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,166 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,166 - root                 - INFO     - 
+2025-11-13 02:14:52,167 - root                 - INFO     - ==================== SIMULATION 65/100 ====================
+2025-11-13 02:14:52,167 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,167 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,167 - core.creature        - INFO     -   Health: 118, Stamina: 134
+2025-11-13 02:14:52,168 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=3), Wings(count=2), Claws(size=SMALL), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,168 - core.simulation      - INFO     - Evolved Prey at 772:
+2025-11-13 02:14:52,168 - core.creature        - INFO     -   Health: 114, Stamina: 60
+2025-11-13 02:14:52,169 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=3)]
+2025-11-13 02:14:52,170 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,171 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,171 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,171 - root                 - INFO     - 
+2025-11-13 02:14:52,171 - root                 - INFO     - ==================== SIMULATION 66/100 ====================
+2025-11-13 02:14:52,171 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,171 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,171 - core.creature        - INFO     -   Health: 92, Stamina: 175
+2025-11-13 02:14:52,172 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=1), Wings(count=4), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,172 - core.simulation      - INFO     - Evolved Prey at 700:
+2025-11-13 02:14:52,172 - core.creature        - INFO     -   Health: 94, Stamina: 90
+2025-11-13 02:14:52,172 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=4)]
+2025-11-13 02:14:52,172 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,173 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,173 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,173 - root                 - INFO     - 
+2025-11-13 02:14:52,173 - root                 - INFO     - ==================== SIMULATION 67/100 ====================
+2025-11-13 02:14:52,173 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,174 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,174 - core.creature        - INFO     -   Health: 112, Stamina: 120
+2025-11-13 02:14:52,174 - core.creature        - INFO     -   Power: 12, Parts: [Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,174 - core.simulation      - INFO     - Evolved Prey at 77:
+2025-11-13 02:14:52,174 - core.creature        - INFO     -   Health: 101, Stamina: 83
+2025-11-13 02:14:52,174 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=2), Wings(count=4)]
+2025-11-13 02:14:52,174 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,175 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,175 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,175 - root                 - INFO     - 
+2025-11-13 02:14:52,175 - root                 - INFO     - ==================== SIMULATION 68/100 ====================
+2025-11-13 02:14:52,175 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,176 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,176 - core.creature        - INFO     -   Health: 112, Stamina: 173
+2025-11-13 02:14:52,176 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=3), Wings(count=4)]
+2025-11-13 02:14:52,176 - core.simulation      - INFO     - Evolved Prey at 2:
+2025-11-13 02:14:52,176 - core.creature        - INFO     -   Health: 110, Stamina: 82
+2025-11-13 02:14:52,176 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=2)]
+2025-11-13 02:14:52,176 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,176 - core.simulation      - INFO     - CATCH! Predator caught prey at position 8
+2025-11-13 02:14:52,177 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,177 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,177 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,177 - root                 - INFO     - 
+2025-11-13 02:14:52,177 - root                 - INFO     - ==================== SIMULATION 69/100 ====================
+2025-11-13 02:14:52,177 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,178 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,178 - core.creature        - INFO     -   Health: 103, Stamina: 149
+2025-11-13 02:14:52,178 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=2), Claws(size=SMALL)]
+2025-11-13 02:14:52,178 - core.simulation      - INFO     - Evolved Prey at 304:
+2025-11-13 02:14:52,178 - core.creature        - INFO     -   Health: 113, Stamina: 82
+2025-11-13 02:14:52,178 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=4), Wings(count=2)]
+2025-11-13 02:14:52,178 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,179 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,179 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,179 - root                 - INFO     - 
+2025-11-13 02:14:52,179 - root                 - INFO     - ==================== SIMULATION 70/100 ====================
+2025-11-13 02:14:52,179 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,179 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,179 - core.creature        - INFO     -   Health: 81, Stamina: 165
+2025-11-13 02:14:52,180 - core.creature        - INFO     -   Power: 6, Parts: [Claws(size=BIG), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,180 - core.simulation      - INFO     - Evolved Prey at 837:
+2025-11-13 02:14:52,180 - core.creature        - INFO     -   Health: 88, Stamina: 56
+2025-11-13 02:14:52,180 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=3), Wings(count=4), Claws(size=BIG)]
+2025-11-13 02:14:52,180 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,181 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,181 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,181 - root                 - INFO     - 
+2025-11-13 02:14:52,181 - root                 - INFO     - ==================== SIMULATION 71/100 ====================
+2025-11-13 02:14:52,182 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,182 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,182 - core.creature        - INFO     -   Health: 90, Stamina: 122
+2025-11-13 02:14:52,182 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=1), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,182 - core.simulation      - INFO     - Evolved Prey at 208:
+2025-11-13 02:14:52,183 - core.creature        - INFO     -   Health: 91, Stamina: 65
+2025-11-13 02:14:52,183 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,183 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,183 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,183 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,183 - root                 - INFO     - 
+2025-11-13 02:14:52,184 - root                 - INFO     - ==================== SIMULATION 72/100 ====================
+2025-11-13 02:14:52,187 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,187 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,187 - core.creature        - INFO     -   Health: 115, Stamina: 179
+2025-11-13 02:14:52,188 - core.creature        - INFO     -   Power: 12, Parts: [Wings(count=2)]
+2025-11-13 02:14:52,188 - core.simulation      - INFO     - Evolved Prey at 870:
+2025-11-13 02:14:52,188 - core.creature        - INFO     -   Health: 110, Stamina: 69
+2025-11-13 02:14:52,188 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=4), Wings(count=2)]
+2025-11-13 02:14:52,188 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,189 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,189 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,189 - root                 - INFO     - 
+2025-11-13 02:14:52,189 - root                 - INFO     - ==================== SIMULATION 73/100 ====================
+2025-11-13 02:14:52,189 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,189 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,190 - core.creature        - INFO     -   Health: 91, Stamina: 158
+2025-11-13 02:14:52,190 - core.creature        - INFO     -   Power: 9, Parts: [Wings(count=2), Claws(size=BIG)]
+2025-11-13 02:14:52,190 - core.simulation      - INFO     - Evolved Prey at 120:
+2025-11-13 02:14:52,190 - core.creature        - INFO     -   Health: 99, Stamina: 53
+2025-11-13 02:14:52,190 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=2), Wings(count=2)]
+2025-11-13 02:14:52,190 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,191 - core.simulation      - INFO     - CATCH! Predator caught prey at position 218
+2025-11-13 02:14:52,191 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,191 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,191 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,191 - root                 - INFO     - 
+2025-11-13 02:14:52,191 - root                 - INFO     - ==================== SIMULATION 74/100 ====================
+2025-11-13 02:14:52,192 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,192 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,192 - core.creature        - INFO     -   Health: 120, Stamina: 198
+2025-11-13 02:14:52,192 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=4), Wings(count=4), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,192 - core.simulation      - INFO     - Evolved Prey at 410:
+2025-11-13 02:14:52,192 - core.creature        - INFO     -   Health: 94, Stamina: 41
+2025-11-13 02:14:52,192 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=2)]
+2025-11-13 02:14:52,193 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,193 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,193 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,193 - root                 - INFO     - 
+2025-11-13 02:14:52,193 - root                 - INFO     - ==================== SIMULATION 75/100 ====================
+2025-11-13 02:14:52,194 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,194 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,194 - core.creature        - INFO     -   Health: 90, Stamina: 132
+2025-11-13 02:14:52,194 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=2), Claws(size=MEDIUM), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,194 - core.simulation      - INFO     - Evolved Prey at 796:
+2025-11-13 02:14:52,195 - core.creature        - INFO     -   Health: 109, Stamina: 96
+2025-11-13 02:14:52,195 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=2), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,195 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,195 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,195 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,195 - root                 - INFO     - 
+2025-11-13 02:14:52,196 - root                 - INFO     - ==================== SIMULATION 76/100 ====================
+2025-11-13 02:14:52,196 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,196 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,196 - core.creature        - INFO     -   Health: 81, Stamina: 198
+2025-11-13 02:14:52,196 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=1), Wings(count=4), Claws(size=SMALL), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,196 - core.simulation      - INFO     - Evolved Prey at 585:
+2025-11-13 02:14:52,196 - core.creature        - INFO     -   Health: 84, Stamina: 100
+2025-11-13 02:14:52,196 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=3), Claws(size=BIG)]
+2025-11-13 02:14:52,196 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,197 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,197 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,197 - root                 - INFO     - 
+2025-11-13 02:14:52,197 - root                 - INFO     - ==================== SIMULATION 77/100 ====================
+2025-11-13 02:14:52,198 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,198 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,198 - core.creature        - INFO     -   Health: 96, Stamina: 138
+2025-11-13 02:14:52,198 - core.creature        - INFO     -   Power: 5, Parts: [Wings(count=2)]
+2025-11-13 02:14:52,198 - core.simulation      - INFO     - Evolved Prey at 309:
+2025-11-13 02:14:52,198 - core.creature        - INFO     -   Health: 99, Stamina: 82
+2025-11-13 02:14:52,198 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=2), Wings(count=2), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,198 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,199 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,199 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,199 - root                 - INFO     - 
+2025-11-13 02:14:52,199 - root                 - INFO     - ==================== SIMULATION 78/100 ====================
+2025-11-13 02:14:52,200 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,200 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,200 - core.creature        - INFO     -   Health: 100, Stamina: 128
+2025-11-13 02:14:52,200 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=1), Wings(count=4), Claws(size=SMALL), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,200 - core.simulation      - INFO     - Evolved Prey at 924:
+2025-11-13 02:14:52,200 - core.creature        - INFO     -   Health: 119, Stamina: 84
+2025-11-13 02:14:52,200 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=2), Wings(count=2)]
+2025-11-13 02:14:52,201 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,201 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,201 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,201 - root                 - INFO     - 
+2025-11-13 02:14:52,201 - root                 - INFO     - ==================== SIMULATION 79/100 ====================
+2025-11-13 02:14:52,201 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,202 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,202 - core.creature        - INFO     -   Health: 96, Stamina: 177
+2025-11-13 02:14:52,202 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=2), Claws(size=BIG), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,202 - core.simulation      - INFO     - Evolved Prey at 607:
+2025-11-13 02:14:52,202 - core.creature        - INFO     -   Health: 107, Stamina: 48
+2025-11-13 02:14:52,202 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=4)]
+2025-11-13 02:14:52,203 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,203 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,203 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,203 - root                 - INFO     - 
+2025-11-13 02:14:52,204 - root                 - INFO     - ==================== SIMULATION 80/100 ====================
+2025-11-13 02:14:52,204 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,204 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,204 - core.creature        - INFO     -   Health: 116, Stamina: 168
+2025-11-13 02:14:52,204 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=1), Wings(count=2), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,204 - core.simulation      - INFO     - Evolved Prey at 939:
+2025-11-13 02:14:52,204 - core.creature        - INFO     -   Health: 85, Stamina: 70
+2025-11-13 02:14:52,204 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=4), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,205 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,205 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,205 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,205 - root                 - INFO     - 
+2025-11-13 02:14:52,205 - root                 - INFO     - ==================== SIMULATION 81/100 ====================
+2025-11-13 02:14:52,205 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,206 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,206 - core.creature        - INFO     -   Health: 97, Stamina: 169
+2025-11-13 02:14:52,206 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=4), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,206 - core.simulation      - INFO     - Evolved Prey at 614:
+2025-11-13 02:14:52,206 - core.creature        - INFO     -   Health: 99, Stamina: 64
+2025-11-13 02:14:52,206 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=4)]
+2025-11-13 02:14:52,206 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,207 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,207 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,207 - root                 - INFO     - 
+2025-11-13 02:14:52,207 - root                 - INFO     - ==================== SIMULATION 82/100 ====================
+2025-11-13 02:14:52,207 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,208 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,208 - core.creature        - INFO     -   Health: 80, Stamina: 164
+2025-11-13 02:14:52,208 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=2), Wings(count=2), Claws(size=SMALL), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,208 - core.simulation      - INFO     - Evolved Prey at 189:
+2025-11-13 02:14:52,208 - core.creature        - INFO     -   Health: 93, Stamina: 57
+2025-11-13 02:14:52,208 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=4), Wings(count=2), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,208 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,209 - core.simulation      - INFO     - CATCH! Predator caught prey at position 295
+2025-11-13 02:14:52,209 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,209 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,209 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,209 - root                 - INFO     - 
+2025-11-13 02:14:52,210 - root                 - INFO     - ==================== SIMULATION 83/100 ====================
+2025-11-13 02:14:52,210 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,210 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,210 - core.creature        - INFO     -   Health: 109, Stamina: 191
+2025-11-13 02:14:52,210 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=1), Wings(count=4), Claws(size=SMALL)]
+2025-11-13 02:14:52,210 - core.simulation      - INFO     - Evolved Prey at 305:
+2025-11-13 02:14:52,210 - core.creature        - INFO     -   Health: 87, Stamina: 46
+2025-11-13 02:14:52,210 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=2), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,211 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,211 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,211 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,211 - root                 - INFO     - 
+2025-11-13 02:14:52,212 - root                 - INFO     - ==================== SIMULATION 84/100 ====================
+2025-11-13 02:14:52,212 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,212 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,212 - core.creature        - INFO     -   Health: 118, Stamina: 155
+2025-11-13 02:14:52,212 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=4), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,212 - core.simulation      - INFO     - Evolved Prey at 501:
+2025-11-13 02:14:52,212 - core.creature        - INFO     -   Health: 83, Stamina: 62
+2025-11-13 02:14:52,213 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,213 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,213 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,213 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,213 - root                 - INFO     - 
+2025-11-13 02:14:52,213 - root                 - INFO     - ==================== SIMULATION 85/100 ====================
+2025-11-13 02:14:52,214 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,214 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,214 - core.creature        - INFO     -   Health: 93, Stamina: 151
+2025-11-13 02:14:52,214 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=2), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,214 - core.simulation      - INFO     - Evolved Prey at 316:
+2025-11-13 02:14:52,214 - core.creature        - INFO     -   Health: 113, Stamina: 72
+2025-11-13 02:14:52,214 - core.creature        - INFO     -   Power: 14, Parts: [Legs(count=3), Claws(size=BIG), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,215 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,215 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,215 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,215 - root                 - INFO     - 
+2025-11-13 02:14:52,215 - root                 - INFO     - ==================== SIMULATION 86/100 ====================
+2025-11-13 02:14:52,216 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,216 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,216 - core.creature        - INFO     -   Health: 90, Stamina: 138
+2025-11-13 02:14:52,216 - core.creature        - INFO     -   Power: 7, Parts: [Legs(count=4), Wings(count=4), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,216 - core.simulation      - INFO     - Evolved Prey at 399:
+2025-11-13 02:14:52,216 - core.creature        - INFO     -   Health: 92, Stamina: 64
+2025-11-13 02:14:52,216 - core.creature        - INFO     -   Power: 6, Parts: [Wings(count=2), Claws(size=BIG)]
+2025-11-13 02:14:52,216 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,217 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,217 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,217 - root                 - INFO     - 
+2025-11-13 02:14:52,217 - root                 - INFO     - ==================== SIMULATION 87/100 ====================
+2025-11-13 02:14:52,218 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,218 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,218 - core.creature        - INFO     -   Health: 84, Stamina: 136
+2025-11-13 02:14:52,218 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=2), Claws(size=SMALL)]
+2025-11-13 02:14:52,218 - core.simulation      - INFO     - Evolved Prey at 693:
+2025-11-13 02:14:52,219 - core.creature        - INFO     -   Health: 113, Stamina: 92
+2025-11-13 02:14:52,219 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=1), Wings(count=4), Claws(size=MEDIUM)]
+2025-11-13 02:14:52,219 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,219 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,219 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,219 - root                 - INFO     - 
+2025-11-13 02:14:52,219 - root                 - INFO     - ==================== SIMULATION 88/100 ====================
+2025-11-13 02:14:52,220 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,220 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,220 - core.creature        - INFO     -   Health: 112, Stamina: 154
+2025-11-13 02:14:52,220 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=2), Wings(count=2), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,220 - core.simulation      - INFO     - Evolved Prey at 876:
+2025-11-13 02:14:52,220 - core.creature        - INFO     -   Health: 100, Stamina: 65
+2025-11-13 02:14:52,220 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=1), Wings(count=4)]
+2025-11-13 02:14:52,220 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,221 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,221 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,221 - root                 - INFO     - 
+2025-11-13 02:14:52,221 - root                 - INFO     - ==================== SIMULATION 89/100 ====================
+2025-11-13 02:14:52,221 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,221 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,222 - core.creature        - INFO     -   Health: 102, Stamina: 145
+2025-11-13 02:14:52,222 - core.creature        - INFO     -   Power: 9, Parts: [Legs(count=4), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,222 - core.simulation      - INFO     - Evolved Prey at 999:
+2025-11-13 02:14:52,222 - core.creature        - INFO     -   Health: 120, Stamina: 47
+2025-11-13 02:14:52,222 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=2)]
+2025-11-13 02:14:52,222 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,223 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,223 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,223 - root                 - INFO     - 
+2025-11-13 02:14:52,223 - root                 - INFO     - ==================== SIMULATION 90/100 ====================
+2025-11-13 02:14:52,223 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,223 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,223 - core.creature        - INFO     -   Health: 103, Stamina: 177
+2025-11-13 02:14:52,223 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1), Claws(size=BIG), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,224 - core.simulation      - INFO     - Evolved Prey at 317:
+2025-11-13 02:14:52,224 - core.creature        - INFO     -   Health: 104, Stamina: 100
+2025-11-13 02:14:52,224 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=2), Wings(count=2)]
+2025-11-13 02:14:52,224 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,224 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,224 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,225 - root                 - INFO     - 
+2025-11-13 02:14:52,225 - root                 - INFO     - ==================== SIMULATION 91/100 ====================
+2025-11-13 02:14:52,225 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,225 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,225 - core.creature        - INFO     -   Health: 96, Stamina: 150
+2025-11-13 02:14:52,225 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=4), Claws(size=MEDIUM), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,225 - core.simulation      - INFO     - Evolved Prey at 610:
+2025-11-13 02:14:52,225 - core.creature        - INFO     -   Health: 119, Stamina: 81
+2025-11-13 02:14:52,226 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=4), Wings(count=2)]
+2025-11-13 02:14:52,226 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,226 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,226 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,226 - root                 - INFO     - 
+2025-11-13 02:14:52,226 - root                 - INFO     - ==================== SIMULATION 92/100 ====================
+2025-11-13 02:14:52,226 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,227 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,227 - core.creature        - INFO     -   Health: 118, Stamina: 141
+2025-11-13 02:14:52,227 - core.creature        - INFO     -   Power: 8, Parts: [Legs(count=3), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,227 - core.simulation      - INFO     - Evolved Prey at 719:
+2025-11-13 02:14:52,227 - core.creature        - INFO     -   Health: 92, Stamina: 51
+2025-11-13 02:14:52,227 - core.creature        - INFO     -   Power: 12, Parts: [Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,227 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,227 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,228 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,228 - root                 - INFO     - 
+2025-11-13 02:14:52,228 - root                 - INFO     - ==================== SIMULATION 93/100 ====================
+2025-11-13 02:14:52,228 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,228 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,228 - core.creature        - INFO     -   Health: 101, Stamina: 159
+2025-11-13 02:14:52,228 - core.creature        - INFO     -   Power: 11, Parts: [Legs(count=4), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,228 - core.simulation      - INFO     - Evolved Prey at 652:
+2025-11-13 02:14:52,228 - core.creature        - INFO     -   Health: 85, Stamina: 42
+2025-11-13 02:14:52,228 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=3)]
+2025-11-13 02:14:52,229 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,229 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,229 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,229 - root                 - INFO     - 
+2025-11-13 02:14:52,229 - root                 - INFO     - ==================== SIMULATION 94/100 ====================
+2025-11-13 02:14:52,229 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,229 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,229 - core.creature        - INFO     -   Health: 106, Stamina: 192
+2025-11-13 02:14:52,229 - core.creature        - INFO     -   Power: 11, Parts: [Claws(size=MEDIUM), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,230 - core.simulation      - INFO     - Evolved Prey at 266:
+2025-11-13 02:14:52,230 - core.creature        - INFO     -   Health: 96, Stamina: 79
+2025-11-13 02:14:52,230 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=1)]
+2025-11-13 02:14:52,230 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,230 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,231 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,231 - root                 - INFO     - 
+2025-11-13 02:14:52,231 - root                 - INFO     - ==================== SIMULATION 95/100 ====================
+2025-11-13 02:14:52,231 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,231 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,231 - core.creature        - INFO     -   Health: 102, Stamina: 143
+2025-11-13 02:14:52,231 - core.creature        - INFO     -   Power: 13, Parts: [Legs(count=3), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,231 - core.simulation      - INFO     - Evolved Prey at 38:
+2025-11-13 02:14:52,231 - core.creature        - INFO     -   Health: 115, Stamina: 66
+2025-11-13 02:14:52,231 - core.creature        - INFO     -   Power: 9, Parts: [Wings(count=2)]
+2025-11-13 02:14:52,231 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,232 - core.simulation      - INFO     - CATCH! Predator caught prey at position 48
+2025-11-13 02:14:52,232 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,232 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,232 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,232 - root                 - INFO     - 
+2025-11-13 02:14:52,232 - root                 - INFO     - ==================== SIMULATION 96/100 ====================
+2025-11-13 02:14:52,232 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,232 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,232 - core.creature        - INFO     -   Health: 89, Stamina: 171
+2025-11-13 02:14:52,233 - core.creature        - INFO     -   Power: 14, Parts: [Claws(size=BIG), Teeth(sharpness=MEDIUM)]
+2025-11-13 02:14:52,233 - core.simulation      - INFO     - Evolved Prey at 292:
+2025-11-13 02:14:52,233 - core.creature        - INFO     -   Health: 94, Stamina: 64
+2025-11-13 02:14:52,233 - core.creature        - INFO     -   Power: 5, Parts: [Legs(count=2), Teeth(sharpness=LOW)]
+2025-11-13 02:14:52,233 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,234 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,234 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,234 - root                 - INFO     - 
+2025-11-13 02:14:52,234 - root                 - INFO     - ==================== SIMULATION 97/100 ====================
+2025-11-13 02:14:52,234 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,234 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,234 - core.creature        - INFO     -   Health: 103, Stamina: 151
+2025-11-13 02:14:52,235 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=4), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,235 - core.simulation      - INFO     - Evolved Prey at 890:
+2025-11-13 02:14:52,235 - core.creature        - INFO     -   Health: 94, Stamina: 65
+2025-11-13 02:14:52,235 - core.creature        - INFO     -   Power: 13, Parts: []
+2025-11-13 02:14:52,235 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,236 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,236 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,236 - root                 - INFO     - 
+2025-11-13 02:14:52,236 - root                 - INFO     - ==================== SIMULATION 98/100 ====================
+2025-11-13 02:14:52,236 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,236 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,236 - core.creature        - INFO     -   Health: 105, Stamina: 181
+2025-11-13 02:14:52,236 - core.creature        - INFO     -   Power: 6, Parts: [Legs(count=1), Claws(size=SMALL)]
+2025-11-13 02:14:52,237 - core.simulation      - INFO     - Evolved Prey at 741:
+2025-11-13 02:14:52,237 - core.creature        - INFO     -   Health: 112, Stamina: 96
+2025-11-13 02:14:52,237 - core.creature        - INFO     -   Power: 10, Parts: [Legs(count=3)]
+2025-11-13 02:14:52,237 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,237 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,238 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,238 - root                 - INFO     - 
+2025-11-13 02:14:52,238 - root                 - INFO     - ==================== SIMULATION 99/100 ====================
+2025-11-13 02:14:52,238 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,238 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,238 - core.creature        - INFO     -   Health: 107, Stamina: 148
+2025-11-13 02:14:52,238 - core.creature        - INFO     -   Power: 11, Parts: [Wings(count=2), Claws(size=BIG), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,239 - core.simulation      - INFO     - Evolved Prey at 204:
+2025-11-13 02:14:52,239 - core.creature        - INFO     -   Health: 88, Stamina: 47
+2025-11-13 02:14:52,239 - core.creature        - INFO     -   Power: 10, Parts: [Wings(count=4)]
+2025-11-13 02:14:52,239 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,240 - core.simulation      - WARNING  - Pray ran into infinity
+2025-11-13 02:14:52,240 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,240 - root                 - INFO     - 
+2025-11-13 02:14:52,240 - root                 - INFO     - ==================== SIMULATION 100/100 ====================
+2025-11-13 02:14:52,240 - core.simulation      - INFO     - --- EVOLUTION PHASE ---
+2025-11-13 02:14:52,240 - core.simulation      - INFO     - Evolved Predator:
+2025-11-13 02:14:52,240 - core.creature        - INFO     -   Health: 106, Stamina: 165
+2025-11-13 02:14:52,240 - core.creature        - INFO     -   Power: 12, Parts: [Legs(count=4), Wings(count=2), Claws(size=MEDIUM), Teeth(sharpness=HIGH)]
+2025-11-13 02:14:52,241 - core.simulation      - INFO     - Evolved Prey at 133:
+2025-11-13 02:14:52,241 - core.creature        - INFO     -   Health: 104, Stamina: 87
+2025-11-13 02:14:52,241 - core.creature        - INFO     -   Power: 15, Parts: [Legs(count=2), Wings(count=2), Claws(size=SMALL)]
+2025-11-13 02:14:52,241 - core.simulation      - INFO     - --- CHASE PHASE ---
+2025-11-13 02:14:52,241 - core.simulation      - INFO     - CATCH! Predator caught prey at position 295
+2025-11-13 02:14:52,241 - core.simulation      - INFO     - --- FIGHT PHASE ---
+2025-11-13 02:14:52,242 - core.simulation      - WARNING  - Some R-rated things have happened
+2025-11-13 02:14:52,242 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,242 - root                 - INFO     - 
+2025-11-13 02:14:52,242 - root                 - INFO     - ======================================================================
+2025-11-13 02:14:52,242 - root                 - INFO     - All simulations complete!
+2025-11-13 02:14:52,242 - root                 - INFO     - Check ../logs/simulation.log for detailed results
+2025-11-13 02:14:52,242 - root                 - INFO     - ======================================================================

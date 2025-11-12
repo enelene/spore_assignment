@@ -1,0 +1,38 @@
+# pyproject.toml
+
+[project]
+name = "spore_simulation"
+version = "0.1.0"
+description = "A simulation inspired by the game Spore for Assignment 1."
+requires-python = ">=3.13"
+
+[tool.ruff]
+# Target Python 3.13
+target-version = "py313"
+
+# Set line length to 88 (same as 'black')
+line-length = 88
+
+# Select common rules:
+# E/W: pycodestyle errors/warnings
+# F: Pyflakes
+# I: isort (import sorting)
+# C90: McCabe complexity
+select = ["E", "F", "W", "I", "C90"]
+
+[tool.ruff.format]
+# Use double quotes for consistency
+quote-style = "double"
+
+[tool.mypy]
+# Target Python 3.13
+python_version = "3.13"
+
+# Enable the strictest checks to demonstrate correctness
+strict = true
+
+# This is good practice for projects with modules
+namespace_packages = true
+
+# Ignore missing imports for third-party libs if you add any (none right now)
+ignore_missing_imports = true
